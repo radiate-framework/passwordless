@@ -22,7 +22,7 @@ trait PasswordlessLogin
         }
 
         if ($expiry) {
-            $url->expiresIn($redirect);
+            $url->expiresIn($expiry);
         }
 
         return $url->generate();
