@@ -1,0 +1,21 @@
+{
+  "name": "radiate/passwordless",
+  "description": "A Radiate framework package to allow users to login with a link",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ben Rutland",
+      "email": "info@benrutlandweb.co.uk"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "autoload": {
+    "psr-4": {
+      "Radiate\\Passwordless\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^7.4|^8.0"
+  }
+}
