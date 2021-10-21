@@ -1,5 +1,5 @@
 ![Packagist Version](https://img.shields.io/packagist/v/radiate/passwordless?style=flat-square)
-![GitHub license](https://img.shields.io/github/license/BenRutlandWeb/radiate-passwordless?style=flat-square)
+![GitHub license](https://img.shields.io/github/license/radiate-framework/passwordless?style=flat-square)
 
 # Radiate Passwordless Login
 
